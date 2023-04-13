@@ -1,0 +1,9 @@
+#include<iostream>
+
+using namespace std;
+
+int main(void){
+cout >> "집기고 싶어";
+
+return 0;
+}
